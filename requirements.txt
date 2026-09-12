@@ -1,0 +1,21 @@
+# AURA - Local AI Assistant
+# Python 3.10+
+
+torch
+llama-cpp-python
+
+numpy
+scipy
+scikit-learn
+sentence-transformers
+
+requests
+beautifulsoup4
+
+sounddevice
+soundfile
+SpeechRecognition
+pyttsx3
+
+psutil
+python-dotenv
